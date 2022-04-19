@@ -1,0 +1,23 @@
+.image {
+    height: auto;
+    width: 100%;
+    max-width: 20vw;
+}
+
+body {
+    font-family: Helvetica, Roboto, Times, serif;
+    text-align: center;
+}
+
+/* index.html main css */
+
+#mainheader {
+    font-size: 175px;
+}
+
+#mainlist {
+    font-size: 50px;
+    white-space: normal;
+    color:black; 
+    list-style: none;
+}
