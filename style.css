@@ -24,6 +24,8 @@
     border-radius: 10px;
     transition-duration: 1s;
     padding: .5vw 2vw;
+    display: block;
+    margin: auto;
 }
 
 .butt:hover {
