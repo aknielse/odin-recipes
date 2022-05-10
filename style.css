@@ -8,7 +8,7 @@
     font-family: Helvetica, Roboto, Times, serif;
     text-align: center;
     background-color: black;
-    color: white;
+    color:white;
 }
 
 .recipebody {
@@ -23,10 +23,6 @@
 
 
 /* index.html main css */
-/*.indexbody {
-    background-color: black;
-}*/
-
 
 #mainheader {
     font-size: 15vw;
