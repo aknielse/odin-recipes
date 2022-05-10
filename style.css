@@ -21,7 +21,7 @@
     background-color: black;
     color: white;
     font-size: 1.5vw;
-    border-radius: 5%;
+    border-radius: 10px;
     transition-duration: 1s;
     padding: .5vw 2vw;
 }
@@ -29,10 +29,14 @@
 .butt:hover {
     background-color: white;
     color: black;
+    cursor: pointer;
 }
 
 .mainbutt {
-    
+    font-size: 5vw;
+    width: 100%;
+    border: black;
+    border-radius: 25px;
 }
 
 
