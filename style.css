@@ -1,23 +1,41 @@
 .image {
     height: auto;
     width: 100%;
-    max-width: 20vw;
+    max-width: 35vw;
 }
 
-body {
+.allBody {
+    font-family: Helvetica, Roboto, Times, serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.recipebody {
+    text-align:left
+}
+
+.backButt {
     font-family: Helvetica, Roboto, Times, serif;
     text-align: center;
 }
 
+
+
 /* index.html main css */
+/*.indexbody {
+    background-color: black;
+}*/
+
 
 #mainheader {
     font-size: 15vw;
+    color: white;
 }
 
 #mainlist {
     font-size: 5vw;
     white-space: normal;
-    color:black; 
+    color:white;
     list-style: none;
 }
