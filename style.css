@@ -12,11 +12,11 @@ body {
 /* index.html main css */
 
 #mainheader {
-    font-size: 175px;
+    font-size: 15vw;
 }
 
 #mainlist {
-    font-size: 50px;
+    font-size: 5vw;
     white-space: normal;
     color:black; 
     list-style: none;
